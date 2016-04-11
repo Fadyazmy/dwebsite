@@ -245,8 +245,8 @@ h1 {
 }
 
 .pop {
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
   background: #EC407A;
   position: relative;
@@ -290,11 +290,11 @@ h1 {
 }
 
 .scale {
-  -moz-transform: scale(100);
-  -o-transform: scale(100);
-  -ms-transform: scale(100);
-  -webkit-transform: scale(100);
-  transform: scale(100);
+  -moz-transform: scale(25);
+  -o-transform: scale(25);
+  -ms-transform: scale(25);
+  -webkit-transform: scale(25);
+  transform: scale(25);
   -webkit-transition: all 3s ease;
   -moz-transition: all 3s ease;
   -ms-transition: all 3s ease;
