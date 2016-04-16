@@ -250,7 +250,8 @@ h1 {
   margin: 0 auto;
   background: #EC407A;
   position: relative;
-  top: -187px;
+  top: -160px;
+  left: -14px;
   border-radius: 50%;
   -moz-transform: scale(0);
   -o-transform: scale(0);
@@ -278,6 +279,10 @@ h1 {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+}
+.heart-right {
+	position: absolute;
+	top: 80px;
 }
 
 .bg-switch {
